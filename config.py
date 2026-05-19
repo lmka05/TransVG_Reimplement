@@ -54,7 +54,7 @@ class Config :
     aug_crop = True # Random crop
     aug_scale = True # Multi-scale resize
     aug_translate = True # Random translate
-    avg_blur = True # Gaussian blur
+    aug_blur = True # Gaussian blur
 
     # Đường dẫn checkpoint và log
     detr_model = None
